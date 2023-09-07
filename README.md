@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sariquezamal&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m **MERN Stack** developer.
 
 - 💬 Ask me about **JavaScript, Node.js, MongoDB, Express.js, React.js**
 
 - 📫 How to reach me **abhichek2580@gmail.com**
 
-- ⚡ Fun fact **I am quick learner.**
+- ⚡ Fun fact **I am a quick learner.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
